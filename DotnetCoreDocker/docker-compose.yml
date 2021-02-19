@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dotnetcoredocker:
+    image: ${DOCKER_REGISTRY-}dotnetcoredocker
+    build:
+      context: .
+      dockerfile: DotnetCoreDocker/Dockerfile
