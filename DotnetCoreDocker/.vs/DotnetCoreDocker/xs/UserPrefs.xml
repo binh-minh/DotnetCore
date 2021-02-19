@@ -1,9 +1,5 @@
 ﻿<Properties StartupConfiguration="{F80469CA-F365-489F-BECC-0BABB1882B16}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="docker-compose.override.yml">
-    <Files>
-      <File FileName="DotnetCoreDocker/Dockerfile" Line="1" Column="1" />
-      <File FileName="docker-compose.override.yml" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -19,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.DotnetCoreDocker FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.DotnetCoreDocker PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
