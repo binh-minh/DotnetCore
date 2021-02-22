@@ -1,0 +1,8 @@
+.vs
+*.db
+*.db-journal
+bin
+obj
+*.log
+*.user
+*.pubxml

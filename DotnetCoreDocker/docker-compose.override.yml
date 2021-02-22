@@ -9,5 +9,9 @@ services:
       - "80"
       - "443"
     volumes:
-      - ~/.aspnet/https:/root/.aspnet/https:ro
-      - ~/.microsoft/usersecrets:/root/.microsoft/usersecrets:ro
+      #-Mac
+      #- ~/.aspnet/https:/root/.aspnet/https:ro
+      #- ~/.microsoft/usersecrets:/root/.microsoft/usersecrets:ro
+      #-Window
+      - ${APPDATA}/Microsoft/UserSecrets:C:\Users\ContainerUser\AppData\Roaming\Microsoft\UserSecrets:ro
+      - ${APPDATA}/ASP.NET/Https:C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https:ro
