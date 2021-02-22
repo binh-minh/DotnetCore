@@ -184,4 +184,3 @@ I:\Projects\DemoMVC\DotNetCore\DotnetCore\DotnetCoreDocker\DotnetCoreDocker\obj\
 I:\Projects\DemoMVC\DotNetCore\DotnetCore\DotnetCoreDocker\DotnetCoreDocker\obj\Debug\netcoreapp3.1\DotnetCoreDocker.dll
 I:\Projects\DemoMVC\DotNetCore\DotnetCore\DotnetCoreDocker\DotnetCoreDocker\obj\Debug\netcoreapp3.1\DotnetCoreDocker.pdb
 I:\Projects\DemoMVC\DotNetCore\DotnetCore\DotnetCoreDocker\DotnetCoreDocker\obj\Debug\netcoreapp3.1\DotnetCoreDocker.genruntimeconfig.cache
-I:\Projects\DemoMVC\DotNetCore\DotnetCore\DotnetCoreDocker\DotnetCoreDocker\obj\Debug\netcoreapp3.1\DotnetCoreDocker.csprojAssemblyReference.cache
