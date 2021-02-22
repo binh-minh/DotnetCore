@@ -22,6 +22,7 @@ namespace DotnetCoreDocker.Controllers
         {
 
             return View();
+
         }
 
         public IActionResult Privacy()
