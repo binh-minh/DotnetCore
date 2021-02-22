@@ -27,4 +27,4 @@ jobs:
         key: ${{ secrets.DEV_KEY }}
         port: ${{ secrets.DEV_PORT }}
         command_timeout : 15m
-        script: donnetcoredocker-web.bat sprint-001 dotnetcoredocker
+        script: donnetcoredocker-web.bat sprint--001 dotnetcoredocker
